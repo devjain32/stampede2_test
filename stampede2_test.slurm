@@ -22,7 +22,7 @@
 
 date
 
-ibrun ./stampede2_test.py
+python ./stampede2_test.py
 
 date
 
